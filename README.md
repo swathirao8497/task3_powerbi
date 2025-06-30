@@ -1,4 +1,4 @@
-TASK 4: DASHBOARD DESIGN
+TASK 3: DASHBOARD DESIGN
 =========================
 
 Objective:
